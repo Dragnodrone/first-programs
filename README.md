@@ -17,3 +17,11 @@ WHAT TO DO?
     <a style="color: goldenrod;" href="file:///C:/Users/Natas_3yv3gyj/Natasha%20Python%20Coding/any.html">Home</a>
    
 </html>
+So....
+Now what?
+        Any suggestions?
+  Fork to reply!      
+
+        
+        
+        P.S.   I'm still learning the basics so don't request too crazy stuff.
