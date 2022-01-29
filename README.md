@@ -1,1 +1,3 @@
 TYME TO START
+HMMMM.....
+WHAT TO DO?
