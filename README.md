@@ -15,8 +15,7 @@ WHAT TO DO?
     <h2 style="color: lemonchiffon;">Made with html</h2>
     <nav>
     <a style="color: goldenrod;" href="file:///C:/Users/Natas_3yv3gyj/Natasha%20Python%20Coding/any.html">Home</a>
-    <br>
-    <a style="color: goldenrod;" href="file:///C:/Users/Natas_3yv3gyj/Natasha%20Python%20Coding/poo.html">Games</a>
+    
 
     <nav>
     </header>
