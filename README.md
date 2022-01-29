@@ -14,8 +14,7 @@ WHAT TO DO?
     <h1 style="color: honeydew;">Welcome to Dragondrone's web!</h1>
     <h2 style="color: lemonchiffon;">Made with html</h2>
     <nav>
-    <a style="color: goldenrod;" href="file:///C:/Users/Natas_3yv3gyj/Natasha%20Python%20Coding/any.html">Home</a>
-   
+    
 </html>
 So....
 Now what?
